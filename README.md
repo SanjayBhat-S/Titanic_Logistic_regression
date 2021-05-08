@@ -1,2 +1,2 @@
 # Titanic_Logistic_Regression
-Classificatio problem using Kaggle Titanic dataset.
+Classification problem using Kaggle Titanic dataset.
